@@ -10,9 +10,14 @@ if [ "$#" -ne 3 ]; then
 fi
 
 
+
+
 IMAGES_FILE=$1
 TARGET_REGISTRY=$2
 TARGET_NAMESPACE=$3
+
+echo "TARGET_REGISTRY is  $TARGET_REGISTRY"
+echo "TARGET_NAMESPACE is  $TARGET_NAMESPACE"
 
 # 检查文件是否存在
 if [ ! -f "$IMAGES_FILE" ]; then
