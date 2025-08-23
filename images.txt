@@ -1,1 +1,1 @@
-busybox:1.28
+registry.k8s.io/ingress-nginx/controller:v1.13.1
