@@ -1,1 +1,1 @@
-tongduncloud/redis-exporter:1.0
+tongduncloud/predixy:1.0
