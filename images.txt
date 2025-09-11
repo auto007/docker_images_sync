@@ -1,1 +1,1 @@
-tongduncloud/td-redis-operator:latest
+tongduncloud/redis-cluster:0.2
